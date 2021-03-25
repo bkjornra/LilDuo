@@ -1,6 +1,6 @@
 ## Welcome to Lil Duo Channel
 
-Lil Duo is an Asian-American Rapper
+Pat Kjornrattanawanich aka "Lil Duo" is an Asian-American Rapper who was born on June 13, 2000 in Pleasanton CA.
 
 You can use the [editor on GitHub](https://github.com/bkjornra/My-Web-Page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
