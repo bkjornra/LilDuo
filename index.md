@@ -1,6 +1,6 @@
 ## Welcome to Lil Duo Channel
 
-Pat Kjornrattanawanich aka **Lil Duo** is an Asian-American Rapper who was born on June 13, 2000 in Pleasanton CA. Pat is currently a junior student at [Carroll School of Management] (https://www.bc.edu/content/bc-web/schools/carroll-school/about.html). Aside from sports, Pat enjoys singing, writing songs, and producing musics in his spare time.
+Pat Kjornrattanawanich aka **Lil Duo** is an Asian-American Rapper who was born on June 13, 2000 in Pleasanton CA. Pat is currently a junior student at [Carroll School of Management](https://www.bc.edu/content/bc-web/schools/carroll-school/about.html). Aside from sports, Pat enjoys singing, writing songs, and producing musics in his spare time.
 
 You can use the [editor on GitHub](https://github.com/bkjornra/My-Web-Page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
