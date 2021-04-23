@@ -1,2 +1,2 @@
-# Welcome to my website!
-Welcome to my website!
+# LilDuo
+A webpage created for my young man!
