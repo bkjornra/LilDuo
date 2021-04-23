@@ -4,5 +4,22 @@ Pat Kjornrattanawanich aka **Lil Duo** is an Asian-American Rapper. Pat was born
 
 ![TeslaCover](TeslaCoverSpotify.JPG)
 
+<!DOCTYPE html>
+<html>
 
+<head>
+    <style>
+        body {
+            padding-top: 200px;
+            padding-left: 300px
+        }
+    </style>
+</head>
+
+<body>
+    <p>Please Provide Your Current E-Mail Address
+        <form>
+            &nbsp;<input type="email">
+        </form>
+</body>
 
